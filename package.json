@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fastify": "^2.14.1",
+    "keyv": "^4.0.1",
+    "microtime": "^3.0.0",
+    "phin": "^3.4.1"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "coinify_invoice",
+  "version": "1.0.0",
+  "description": "A coinify url invoice generator",
+  "main": "index.js",
+  "author": "Yoann Gendrey",
+  "license": "MIT"
+}

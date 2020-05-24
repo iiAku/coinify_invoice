@@ -1,0 +1,14 @@
+{
+  "TTL": 60,
+  "port": "",
+  "apiKey": "",
+  "apiSecret": "",
+  "currency": "",
+  "plugin_name": "",
+  "plugin_version": "1.2",
+  "return_url": "",
+  "cancel_url": "",
+  "input_currency": "BTC",
+  "callback_email": "",
+  "callback_url": ""
+}
