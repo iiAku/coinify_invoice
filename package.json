@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "fastify": "^2.14.1",
+    "fastify": "^2.15.1",
     "keyv": "^4.0.1",
     "microtime": "^3.0.0",
     "phin": "^3.4.1"
